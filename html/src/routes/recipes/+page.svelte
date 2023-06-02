@@ -11,7 +11,7 @@
             <li><a href="#Glacage">Gla&ccedil;age</a></li>
         </ol>
         <hr>
-        <img src="img/bisc.webp" alt="Cookie base" style="float:right;width:700px;height:525px">
+        <img src="/bisc.webp" alt="Cookie base" style="float:right;width:700px;height:525px">
         <h2 id="Cookie">Creating the chocolate cookie</h2>
             <h4>Ingredients</h4>
                 <ul>
@@ -34,7 +34,7 @@
                 </ol>
         <br><br><br><br><br>
         <hr>
-        <img src="img/sponge.jpg" alt="Sponge cake" style="float:right;width:400;height:400">
+        <img src="/sponge.jpg" alt="Sponge cake" style="float:right;width:400;height:400">
         <h2 id="Sponge">Creating the sponge cake filler</h2>
                 <h4>Ingredients</h4>
                     <ul>
@@ -54,7 +54,7 @@
                     </ol>
         <br><br><br>
         <hr>
-        <img src="img/chococream.jpg" alt="Chocolate cream dessert" style="float:right;width:500px;height:500px">
+        <img src="/chococream.jpg" alt="Chocolate cream dessert" style="float:right;width:500px;height:500px">
         <h2 id="Cremeux">Creating the cr&eacute;meux filling</h2>
                 <h4>Ingredients</h4>
                     <ul>
