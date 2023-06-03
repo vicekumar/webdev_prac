@@ -2,7 +2,6 @@
     <title>cremeux-chocolat</title>
     <header><a href="/">Home</a></header>
     <hr>
-    <body>
         <h3>Component list</h3>
         <ol>
             <li><a href="#Cookie">Chocolate cookie</a></li>
@@ -106,5 +105,4 @@
                         </ol>
         <hr>
         <footer><a href="/">Home</a></footer>
-    </body>
 </html>
