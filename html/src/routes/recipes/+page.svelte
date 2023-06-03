@@ -1,6 +1,6 @@
 <html>
     <title>cremeux-chocolat</title>
-    <header><a href="page_def.html">Home</a></header>
+    <header><a href="/">Home</a></header>
     <hr>
     <body>
         <h3>Component list</h3>
@@ -34,7 +34,7 @@
                 </ol>
         <br><br><br><br><br>
         <hr>
-        <img src="/sponge.jpg" alt="Sponge cake" style="float:right;width:400;height:400">
+        <img src="/sponge.jpg" alt="Sponge cake" style="float:right;width:400px;height:400px">
         <h2 id="Sponge">Creating the sponge cake filler</h2>
                 <h4>Ingredients</h4>
                     <ul>
@@ -105,6 +105,6 @@
                             <li>Refrigerate the cremeux for 3 hours to thaw the frozen cremeux</li>
                         </ol>
         <hr>
-        <footer><a href="page_def.html">Home</a></footer>
+        <footer><a href="/">Home</a></footer>
     </body>
 </html>
