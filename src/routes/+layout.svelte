@@ -1,0 +1,13 @@
+<script>
+	import '@picocss/pico';
+</script>
+
+<main class="container">
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/store">Store</a></li>
+		</ul>
+	</nav>
+	<slot />
+</main>
